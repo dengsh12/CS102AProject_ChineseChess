@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CS102A-ChineseChess:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebb28376-d409-49bc-9938-e9aec42aafed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="202" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CS102A-ChineseChess" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T9gB6oaKweHtQnQgxGlyAZoIGB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="xyz.chengzi.cs102a.chinesechess.chessboard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\CS102A-ChineseChess\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ChessGameFrame">
+    <configuration name="AIGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.cs102a.chinesechess.AIGameFrame" />
+      <module name="CS102A-ChineseChess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.cs102a.chinesechess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.cs102a.chinesechess.ChessGameFrame" />
+      <module name="CS102A-ChineseChess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.cs102a.chinesechess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CS102A-ChineseChess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.n1" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChessGameFrame" />
+        <item itemvalue="Application.AIGameFrame" />
+        <item itemvalue="Application.n1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb28376-d409-49bc-9938-e9aec42aafed" name="Default Changelist" comment="" />
+      <created>1572877586091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572877586091</updated>
+      <workItem from="1572877589052" duration="13210000" />
+      <workItem from="1572957199372" duration="862000" />
+      <workItem from="1573036714703" duration="3722000" />
+      <workItem from="1573056312899" duration="359000" />
+      <workItem from="1573208318032" duration="205000" />
+      <workItem from="1573275983241" duration="1431000" />
+      <workItem from="1573395726484" duration="416000" />
+      <workItem from="1574856977911" duration="23000" />
+      <workItem from="1574908609083" duration="25000" />
+      <workItem from="1575271236651" duration="602000" />
+      <workItem from="1575283890070" duration="10000" />
+      <workItem from="1575291745758" duration="1261000" />
+      <workItem from="1575335533010" duration="27000" />
+      <workItem from="1575353395460" duration="5321000" />
+      <workItem from="1575358770252" duration="7390000" />
+      <workItem from="1575379304795" duration="5381000" />
+      <workItem from="1575387072316" duration="23251000" />
+      <workItem from="1575478194900" duration="2887000" />
+      <workItem from="1575526008487" duration="12533000" />
+      <workItem from="1575547413407" duration="27173000" />
+      <workItem from="1575653159623" duration="3875000" />
+      <workItem from="1575680634755" duration="3078000" />
+      <workItem from="1575693648632" duration="1976000" />
+      <workItem from="1575729326506" duration="61000" />
+      <workItem from="1575733094357" duration="1003000" />
+      <workItem from="1575876540125" duration="16784000" />
+      <workItem from="1575906666621" duration="3285000" />
+      <workItem from="1575955765608" duration="5842000" />
+      <workItem from="1575962893490" duration="10000" />
+      <workItem from="1575963247050" duration="3426000" />
+      <workItem from="1575982747789" duration="2777000" />
+      <workItem from="1575987590710" duration="1149000" />
+      <workItem from="1575990253552" duration="699000" />
+      <workItem from="1576048443199" duration="1058000" />
+      <workItem from="1576049830378" duration="12286000" />
+      <workItem from="1576072870300" duration="10783000" />
+      <workItem from="1576131898947" duration="5761000" />
+      <workItem from="1576153042693" duration="1456000" />
+      <workItem from="1576155309179" duration="4037000" />
+      <workItem from="1576159420380" duration="2669000" />
+      <workItem from="1576168901250" duration="17408000" />
+      <workItem from="1576240991696" duration="446000" />
+      <workItem from="1576253998145" duration="44680000" />
+      <workItem from="1576346554444" duration="8000" />
+      <workItem from="1576377877229" duration="17308000" />
+      <workItem from="1576402940448" duration="4510000" />
+      <workItem from="1576410284998" duration="629000" />
+      <workItem from="1576415189864" duration="31535000" />
+      <workItem from="1576490031632" duration="8196000" />
+      <workItem from="1576502667576" duration="7310000" />
+      <workItem from="1576510012854" duration="930000" />
+      <workItem from="1576510991732" duration="1576000" />
+      <workItem from="1576513366945" duration="21359000" />
+      <workItem from="1576562243010" duration="708000" />
+      <workItem from="1576562956626" duration="1427000" />
+      <workItem from="1576564466982" duration="2888000" />
+      <workItem from="1576595453864" duration="24000" />
+      <workItem from="1576595514177" duration="35000" />
+      <workItem from="1576595927688" duration="25000" />
+      <workItem from="1576596083131" duration="45000" />
+      <workItem from="1577760289544" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/xyz/chengzi/cs102a/chinesechess/ChessGameFrame.java</url>
+          <line>650</line>
+          <properties class="xyz.chengzi.cs102a.chinesechess.ChessGameFrame" method="checkChessNumber">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="value" />
+        <watch expression="((AImode)this).AIcolor" custom="xyz.chengzi.cs102a.chinesechess.AImode" />
+        <watch expression="bestmove" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS102A_ChineseChess$ChessGameFrame.ic" NAME="ChessGameFrame Coverage Results" MODIFIED="1576514720104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>xyz.chengzi.cs102a.chinesechess.*</FILTER>
+    </SUITE>
+  </component>
+</project>
