@@ -1,2 +1,3 @@
 # CS102AProject_ChineseChess
-The main file was missed, so the project can't run now
+It's a Chinese Chess game made with java swing, in 2019 when I learn java
+main function is in the ChessGameFrame.java
