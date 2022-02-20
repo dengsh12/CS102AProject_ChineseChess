@@ -6,8 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebb28376-d409-49bc-9938-e9aec42aafed" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="ebb28376-d409-49bc-9938-e9aec42aafed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/xyz/chengzi/cs102a/chinesechess/ChessGameFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/xyz/chengzi/cs102a/chinesechess/ChessGameFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/xyz/chengzi/cs102a/chinesechess/ChessGameFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/xyz/chengzi/cs102a/chinesechess/Internetgame0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS102A-ChineseChess/xyz/chengzi/cs102a/chinesechess/Internetgame0.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +32,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1T9gB6oaKweHtQnQgxGlyAZoIGB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/xyz/chengzi/cs102a/chinesechess" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,29 +57,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="xyz.chengzi.cs102a.chinesechess.chessboard" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHome\CS102AProject_ChineseChess\CS102A-ChineseChess\src\xyz\chengzi\cs102a\chinesechess" />
       <recent name="F:\workspace\CS102A-ChineseChess\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ChessGameFrame">
     <configuration name="AIGameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -122,6 +126,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -193,25 +198,27 @@
       <workItem from="1576595927688" duration="25000" />
       <workItem from="1576596083131" duration="45000" />
       <workItem from="1577760289544" duration="5000" />
+      <workItem from="1645265377859" duration="24000" />
+      <workItem from="1645265442339" duration="371000" />
+      <workItem from="1645336448261" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/xyz/chengzi/cs102a/chinesechess/ChessGameFrame.java</url>
-          <line>650</line>
-          <properties class="xyz.chengzi.cs102a.chinesechess.ChessGameFrame" method="checkChessNumber">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="value" />
