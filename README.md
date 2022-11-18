@@ -1,3 +1,3 @@
 # CS102AProject_ChineseChess
-It's a Chinese Chess game made with java swing, in 2019 when I learn java
-main function is in the ChessGameFrame.java
+It's a Chinese Chess game made with java swing. It's my first project
+Main function is in the ChessGameFrame.java
